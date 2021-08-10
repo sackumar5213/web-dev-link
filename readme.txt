@@ -7,3 +7,5 @@ hello this is update by Sackumar.
 thanks!
 
 this is done by Pull command 
+
+create a local branch named as update-readme and push to github by push command in local git
