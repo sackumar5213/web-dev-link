@@ -15,3 +15,5 @@ from read me file
 updation in 4th branch form remote repo
 
 editiion in 4th branch from local repo
+
+from 6th branch from local repo
