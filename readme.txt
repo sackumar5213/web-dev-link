@@ -13,3 +13,5 @@ create a local branch named as update-readme and push to github by push command 
 from read me file 
 
 updation in 4th branch form remote repo
+
+editiion in 4th branch from local repo
