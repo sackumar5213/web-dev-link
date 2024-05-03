@@ -98,44 +98,44 @@ and these are free resources!!!
 
 ------Royalty free Images and videos-----------
 
-1. Unsplash -  unsplash.com
-2. Pexels      -  pexels.com
-3. Pixabay   -  pixabay.com 
-4. Coverr     -  coverr.co
-5. PNG-EGG-  www.pngegg.com
+1. Unsplash -  https://unsplash.com
+2. Pexels      -  https://pexels.com
+3. Pixabay   -  https://pixabay.com 
+4. Coverr     -  https://coverr.co
+5. PNG-EGG-  https://pngegg.com
 
 -----------------------------
 Hosting and Deployment
 
-1. Netlify  - netlify.com
-2. Heroku - heroku.com
+1. Netlify  - https://netlify.com
+2. Heroku - https://heroku.com
 
 ------------------------------
 Icons & Fonts
 
-1. Flaticon             flaticon.com 
-2. Icons8                icons8.com
-3. Fontawesome    fontawesome.com
-4. Google Fonts     fonts.google.com
+1. Flaticon             https://flaticon.com 
+2. Icons8                https://icons8.com
+3. Fontawesome    https://fontawesome.com
+4. Google Fonts     https://fonts.google.com
 
 ------------------------------
 Learning
 
-1. FreeCodeCamp   freecodecamp.org
-2. The Odin Project   www.theodinproject.com
-3. Mem dev    mem.dev
+1. FreeCodeCamp   https://freecodecamp.org
+2. The Odin Project   https://theodinproject.com
+3. Mem dev    https://mem.dev
 
 ------------------------
 Mockup and UI Tools
 
-1. Figma  - figma.com
-2. Zeplin  - zeplin.com
+1. Figma  - https://figma.com
+2. Zeplin  - https://zeplin.com
 
 -----------------------
 Project design ideas
 
-1. Awwards  - awwwards.com
-2. Dribble  - dribble.com
+1. Awwards  - https://awwwards.com
+2. Dribble  - https://dribble.com
 
 
 -----------How to practice CSS (with examples)
