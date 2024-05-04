@@ -194,3 +194,4 @@ https://tree.nathanfriend.io/
 34. CSS tools and snippets: https://cssbud.com/
 35. Glow Generator: https://cssbud.com/css-generator/css-box-shadow-generator/
 36. Open source browser tools for everyday use: https://omatsuri.app/
+37. CSS Generator Tools: https://cssgenerator.org/
