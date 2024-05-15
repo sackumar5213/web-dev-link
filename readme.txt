@@ -154,6 +154,16 @@ https://www.developerupdates.com/blog/free-bootstrap-templates-with-source-code
 https://tree.nathanfriend.io/
 
 
+--------------------------------------------------------------
+Visual Type Scale: https://typescale.com/
+SVG Waves: https://svgwave.in/
+Responsively: https://responsively.app/
+Unsplash AMPI: https://unsplash.com/developers
+Small Dev Tools: https://smalldev.tools/
+Tweets on Website: https://poet.so/
+Beautiful Code Snippets: https://carbon.now.sh/
+--------------------------------------------------------------
+
 ---------------CSS Genertors---------------
 
 ---------------CSS Genertors---------------
