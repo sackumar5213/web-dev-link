@@ -119,6 +119,14 @@ Icons & Fonts
 4. Google Fonts     https://fonts.google.com
 
 ------------------------------
+Font Families
+1. Google Font:       https://fonts.google.com/
+2. Font Space:        https://www.fontspace.com/
+3. FFonts:            https://www.ffonts.net/
+4. Dafont:            https://www.dafont.com/
+5. 1001 Free Fonts:   https://www.1001freefonts.com/
+6. Abstract Fonts:    https://www.abstractfonts.com/
+------------------------------
 Learning
 
 1. FreeCodeCamp   https://freecodecamp.org
